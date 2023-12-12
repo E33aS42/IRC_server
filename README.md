@@ -3,7 +3,8 @@
 # Instructions:
 1. run *make* in the file folder
 2. launch the irc server:
-   \> ./ircserv \<portnumber> <password>
+   \> ./ircserv \<portnumber\> \<password\>
+   
 4. Launch one or more client server windows (or any computer on the same local network) such as irssi or netcat and connect to the chat server:
   .with irssi, type in the command line:
      > irssi
