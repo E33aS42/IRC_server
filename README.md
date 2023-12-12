@@ -11,16 +11,16 @@
      
      in the irssi command line, type:
    
-     > /connect `<hostmachineaddress> `<portnumber> `<password>
+     > `/connect <hostmachineaddress> <portnumber> <password>`
      
   .with netcat, type in the command line:
-     > nc `<hostmachineaddress`> `<portnumber`>
+     > `nc <hostmachineaddress> <portnumber>`
      
-     > user `<username`> `<hostname`> `<servername`> `<realname`>
+     > `user <username> <hostname> <servername> <realname>`
      
-     > nick `<nickname`>
+     > `nick <nickname>`
      
-     > pass `<password`>
+     > `pass <password>`
      
 6. the following commands have been implemented and can be used in the client with the chat server:
    JOIN
