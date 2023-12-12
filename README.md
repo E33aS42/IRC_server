@@ -14,7 +14,9 @@
      > `/connect <hostmachineaddress> <portnumber> <password>`
      
   .with netcat, type in the command line:
+
      > `nc <hostmachineaddress> <portnumber>`
+     
      > `user <username> <hostname> <servername> <realname>`
      > `nick <nickname>`
      > `pass <password>`
