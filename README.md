@@ -11,7 +11,7 @@
      
      in the irssi command line, type:
    
-     > `/connect `<hostmachineaddress`> `<portnumber`> `<password`>
+     > /connect `<hostmachineaddress> `<portnumber> `<password>
      
   .with netcat, type in the command line:
      > nc `<hostmachineaddress`> `<portnumber`>
