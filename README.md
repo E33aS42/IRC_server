@@ -3,11 +3,11 @@
 # Instructions:
 1. run *make* in the file folder
 2. launch the irc server:
-   > .`/ircserv `<portnumber`> `<password`>
+   > `./ircserv <portnumber> <password>`
    
 4. Launch one or more client server windows (or any computer on the same local network) such as irssi or netcat and connect to the chat server:
   .with irssi, type in the command line:
-     > irssi
+     > `irssi`
      
      in the irssi command line, type:
    
@@ -15,11 +15,8 @@
      
   .with netcat, type in the command line:
      > `nc <hostmachineaddress> <portnumber>`
-     
      > `user <username> <hostname> <servername> <realname>`
-     
      > `nick <nickname>`
-     
      > `pass <password>`
      
 6. the following commands have been implemented and can be used in the client with the chat server:
