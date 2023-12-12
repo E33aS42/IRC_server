@@ -5,7 +5,7 @@
 2. launch the irc server:
    > `./ircserv <portnumber> <password>`
    
-4. Launch one or more client server windows (or any computer on the same local network) such as irssi or netcat and connect to the chat server:
+3. Launch one or more client server windows (or any computer on the same local network) such as irssi or netcat and connect to the chat server:
    
   .with irssi, type in the command line:
    > `irssi`
@@ -23,7 +23,7 @@
    
    > `pass <password>`
      
-6. the following commands have been implemented and can be used in the client with the chat server:
+4. the following commands have been implemented and can be used in the client with the chat server:
    JOIN
    KICK
    MODE
