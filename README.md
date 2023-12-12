@@ -18,7 +18,9 @@
    > `nc <hostmachineaddress> <portnumber>`
      
    > `user <username> <hostname> <servername> <realname>`
+   
    > `nick <nickname>`
+   
    > `pass <password>`
      
 6. the following commands have been implemented and can be used in the client with the chat server:
